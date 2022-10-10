@@ -1,25 +1,25 @@
 body {
 width: 100%;
 height: auto;
-padding:150px;
 text-align: center;
-
-
-background-image:url("https://www.google.com/url?sa=i&url=https%3A%2F%2Fit.freepik.com%2Fvettori-premium%2Fastratto-sfondo-olografico-con-colori-pastello_6440468.htm&psig=AOvVaw0p5JDOpChlldocUL2Vd3Xk&ust=1665527157291000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCLj7vaba1voCFQAAAAAdAAAAABAJ");
+background-image:url("https://raw.githubusercontent.com/IvanBoscoloGioachina/Counter/main/img/sfondo.webp");
+background-repeat: no-repeat;
+background-size: cover;
 }
-
 h1 {
+    margin: 50px;
     text-align: center;
     font-family: 'Silkscreen', cursive;
     color: blue;
 }
 
 .calcolatrice{
+    margin-top: 50px;
     text-align: center;
     font-family: 'Silkscreen', cursive;
 }
 
 .display {
-    color: cyan;
+    color: violet;
     font-size: 50px;
 }
