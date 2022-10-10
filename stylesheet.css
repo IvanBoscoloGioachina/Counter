@@ -1,0 +1,31 @@
+.calcolatrice {
+    margin-top: 100px;
+    margin-left: 150px;
+    margin-right: 150px;
+    margin-bottom: 100px;
+    height: 700px;
+    padding: 20px;
+    background-color: rgb(214, 214, 214);
+    border-radius: 30px;
+}
+
+.display {
+    padding: 100px;
+    border: 20px;
+    margin: 20px;
+    border-radius: 15px;
+    height: auto;
+    text-align: center;
+    background-color: greenyellow;
+    font-size: 50px;
+}
+
+
+.btn-group {
+    padding: 130px;
+    margin: 20px;
+    align-items: center;
+    
+}
+
+
